@@ -1,4 +1,4 @@
-# ConcertTicketsStore
+# ConcertTicketsStore :musical_note:
 
 # Features
 - Authentication system (add new user and login)
